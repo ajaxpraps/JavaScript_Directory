@@ -1,0 +1,3 @@
+Java scripts errors ->
+1. Uncought reference error -:
+  it occurs when some variable is used but it is not declared yet
